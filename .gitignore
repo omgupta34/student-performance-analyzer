@@ -1,0 +1,21 @@
+
+# Virtual environments
+.venv/
+.venv313/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Saved ML models
+*.pkl
+
+# Secrets and environment variables
+.env
